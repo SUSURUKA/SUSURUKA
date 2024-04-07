@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SUSURUKA
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning bootstrap
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently learning react js
+- 💞️ I’m looking to collaboration on ..
 - 📫 How to reach me ...
 
 <!---
